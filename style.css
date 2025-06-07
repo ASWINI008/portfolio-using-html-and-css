@@ -19,13 +19,7 @@ table{
     text-align: center
 }
 img{
-    border-radius:200%;
-}
-p{
-    font-style: oblique;
-}
-b{
-    color: darkviolet;
+    border-radius:200%
 }
 a{
     color: darkred;
