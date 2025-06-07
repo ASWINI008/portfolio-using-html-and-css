@@ -21,6 +21,11 @@ table{
 img{
     border-radius:200%
 }
+p{
+    font-style: oblique;
+}
+b{
+    color:darkviolet;
 a{
     color: darkred;
 }
